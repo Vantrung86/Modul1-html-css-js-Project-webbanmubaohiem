@@ -1,0 +1,16 @@
+/* body{
+    background-color:;
+}
+.main_menu_uppercase {
+    background-color:;
+} */
+.search-home{
+    display: flex;
+    flex-wrap: wrap;
+    overflow: scroll;
+    max-height: 500px;
+
+}
+.search-home .search-home-item{
+    width: 25%;
+}

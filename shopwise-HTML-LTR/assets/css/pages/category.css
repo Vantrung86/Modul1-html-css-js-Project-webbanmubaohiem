@@ -1,0 +1,9 @@
+.widget_categories li a::before, .widget_archive li a:before {
+    content: '';
+}
+
+
+.widget_categories li.active a{
+    color: rgb(238, 18, 18);
+}
+
